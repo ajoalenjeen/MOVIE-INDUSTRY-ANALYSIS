@@ -52,3 +52,15 @@ This project analyzes movies to uncover insights into the movie industry. Using 
 
 ![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/da41d254175fd59d2373446e62df13da5b72dd4c/Movie%20Data%20Dashboard.png)
 
+## Key Insights
+
+* Family & Animation genres deliver the highest average profit
+
+* May, June & December are the most profitable release months
+
+* Profitability of the industry has grown consistently since the 1980s
+
+* Top studios like Universal, Warner Bros, and Disney dominate overall profits
+
+* High budgets ≠ high ROI — profitability depends various aspects like genre & timing
+
