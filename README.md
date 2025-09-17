@@ -42,7 +42,7 @@ This project analyzes movies to uncover insights into the movie industry. Using 
 
 * Identified top-grossing movies and top companies
 
-Hypothesis Testing
+## Hypothesis Testing
 
 * Null Hypothesis (H₀): High-budget movies do not have higher ROI than low-budget movies
 
