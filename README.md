@@ -56,7 +56,7 @@ This project analyzes movies to uncover insights into the movie industry. Using 
 
 * Family & Animation genres deliver the highest average profit
 
-* May, June & December are the most profitable release months
+* May, June, July and December are the most profitable release months
 
 * Profitability of the industry has grown consistently since the 1980s
 
