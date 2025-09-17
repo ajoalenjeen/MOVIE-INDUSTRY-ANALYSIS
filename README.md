@@ -48,3 +48,7 @@ This project analyzes movies to uncover insights into the movie industry. Using 
 
 * Result: Failed to reject H₀ → High-budget movies don’t guarantee higher ROI
 
+## Dashboard
+
+![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/da41d254175fd59d2373446e62df13da5b72dd4c/Movie%20Data%20Dashboard.png)
+
