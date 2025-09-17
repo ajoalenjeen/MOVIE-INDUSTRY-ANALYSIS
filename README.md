@@ -4,6 +4,11 @@
 
 This project analyzes movies to uncover insights into the movie industry. Using Excel(Data Cleaning), Python (Data Cleaning, EDA, Hypothesis Testing, Visualization) and Tableau (Dashboard), the goal was to understand patterns in budget, gross revenue, profit, genres, and production companies.
 
+
+## Dataset link
+
+https://www.kaggle.com/datasets/danielgrijalvas/movies
+
 ## Key questions explored:
 
 * Do high-budget movies achieve higher ROI than low-budget ones?
@@ -21,9 +26,8 @@ This project analyzes movies to uncover insights into the movie industry. Using 
   
 * Excel
 
-## Data Cleaning
 
-* Removed year column in excel since some years were wrong
+## Data Cleaning
 
 * Checked for duplicates
 
@@ -33,7 +37,7 @@ This project analyzes movies to uncover insights into the movie industry. Using 
 
 * Added new columns
 
-* Removed unneseccory rows
+* Dropped irrelevant records to improve data quality
 
 
 ## EDA (Exploratory Data Analysis)
