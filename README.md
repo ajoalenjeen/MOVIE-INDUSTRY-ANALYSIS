@@ -23,7 +23,7 @@ This project analyzes movies to uncover insights into the movie industry. Using 
 
 ## Data Cleaning
 
-* Remove year column in excel since some years were wrong
+* Removed year column in excel since some years were wrong
 
 * Checked for duplicates
 
