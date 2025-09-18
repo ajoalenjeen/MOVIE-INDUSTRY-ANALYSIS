@@ -19,6 +19,8 @@ https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 * What are the profit trends of the movie industry since 1980?
 
+* Do runtimes differ significantly across movie genres?
+
 
 ## Tools & Technologies
 
@@ -67,6 +69,8 @@ https://www.kaggle.com/datasets/danielgrijalvas/movies
 * Profitability of the industry has grown consistently since the 1980s
 
 * Top studios like Universal, Warner Bros, and Disney dominate overall profits
+
+* Genres like Drama, Biography, and Mystery generally have longer runtimes (110–130+ minutes), while Animation, Family, and Horror films are shorter (85–100 minutes).
 
 * High budgets ≠ high ROI — profitability depends various aspects like genre & timing
 
