@@ -17,6 +17,8 @@ https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 * Which companies dominate the industry in terms of profit and gross?
 
+* What are the profit trends of the movie industry since 1980?
+
 
 ## Tools & Technologies
 
