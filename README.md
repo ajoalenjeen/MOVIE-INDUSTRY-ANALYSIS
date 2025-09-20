@@ -21,6 +21,8 @@ https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 * Do runtimes differ significantly across movie genres?
 
+* Does runtime of a movie affect the revenue? 
+
 
 ## Tools & Technologies
 
@@ -73,4 +75,8 @@ https://www.kaggle.com/datasets/danielgrijalvas/movies
 * Genres like Drama, Biography, and Mystery generally have longer runtimes (110–130+ minutes), while Animation, Family, and Horror films are shorter (85–100 minutes).
 
 * High budgets ≠ high ROI — profitability depends various aspects like genre & timing
+
+* Runtime appears to have no consistent correlation with a film's gross revenue, as both short and long films achieve varying levels of financial success.
+  
+  
 
