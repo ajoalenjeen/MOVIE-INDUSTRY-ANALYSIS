@@ -49,21 +49,10 @@ https://www.kaggle.com/datasets/danielgrijalvas/movies
 * Dropped irrelevant records to improve data quality
 
 
-## EDA (Exploratory Data Analysis)
+## Analysis
 
-* Analyzed trends in budget vs gross, profit per month/year, and genre performance
 
-* Identified top-grossing movies and top companies
 
-## Hypothesis Testing
-
-* Null Hypothesis (H₀): High-budget movies do not have higher ROI than low-budget movies
-
-* Result: Failed to reject H₀ → High-budget movies don’t guarantee higher ROI
-
-## Dashboard
-
-![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/da41d254175fd59d2373446e62df13da5b72dd4c/Movie%20Data%20Dashboard.png)
 
 ## Key Insights
 
