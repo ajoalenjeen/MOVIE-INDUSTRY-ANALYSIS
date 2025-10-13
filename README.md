@@ -63,7 +63,7 @@ While budget and gross revenue are strongly correlated (r = 0.74, p < 0.001), hi
 
 #### Do High-Budget Movies Have Higher ROI?
 
-image
+![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/a8bbceaee6faa17b540fd84b0d7ba4dab6e16815/Image/Screenshot%202025-10-13%20153635.png)
 
 Finding: ROI and Budget Efficiency
 
@@ -71,13 +71,11 @@ A hypothesis test comparing ROI between high-budget and low-budget movies shows:
 
 t-statistic = -1.65, p = 0.095 (two-sided)
 
-Conclusion: Fail to reject H₀ — high-budget movies do not earn significantly higher ROI.
+Interpretation:
+The result is not statistically significant (p > 0.05)
+Conclusion: Fail to reject H₀ → No significant evidence that high-budget movies earn higher ROI.
 
 While larger budgets correlate strongly with higher total revenue (r = 0.74), they do not yield proportionally higher returns.
-
-Interpretation:
-The result is not statistically significant (p > 0.05).
-We fail to reject H₀, meaning there’s no evidence that high-budget movies have higher ROI.
 
 In fact, visually from your boxplot:
 
@@ -88,13 +86,11 @@ There are extreme outliers among low-budget films (like Paranormal Activity, Get
 Business Insight:
 Mid- and low-budget productions often outperform blockbusters in efficiency. Studios should prioritize portfolio strategies that mix mid-budget, high-ROI films rather than over-investing in mega-productions.
 
+Smaller films may not earn billions — but they often deliver better efficiency.
+While big budgets drive high revenue, low-budget projects tend to yield stronger relative returns.
+
 Example action:
 Reducing average project budgets by 20% could maintain revenue levels while improving profitability margins by up to 15%.
-
-Insight:
-
-“Smaller films may not earn billions — but they often deliver better efficiency.”
-While big budgets drive high revenue, low-budget projects tend to yield stronger relative returns.
 
 
 ## Key Insights
