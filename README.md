@@ -11,24 +11,27 @@ https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 ## Key questions explored:
 
-* Do high-budget movies achieve higher ROI than low-budget ones?
-
-* Which genres and months are the most profitable?
-
-* Which companies dominate the industry in terms of profit and gross?
+* Evaluate top-performing studios in total box office gross
 
 * What are the profit trends of the movie industry since 1980?
 
+* Which genres and months are the most profitable?
+
 * Do runtimes differ significantly across movie genres?
 
-* Does runtime of a movie affect the revenue? 
+* Does runtime of a movie affect the revenue?
+
+* Identify relationships between budget and gross revenue
+
+* Do high-budget movies achieve higher ROI than low-budget ones?
 
 
-## Tools & Technologies
 
-* Python: Pandas, NumPy, Matplotlib, Seaborn, SciPy
+## Tech Stack
 
-* Tableau
+* Python: pandas, numpy, matplotlib, seaborn, scipy
+
+* Statistical Tests: Linear regression, correlation, t-test
   
 * Excel
 
