@@ -35,7 +35,6 @@ https://www.kaggle.com/datasets/danielgrijalvas/movies
   
 * Excel
 
-
 ## Data Cleaning
 
 * Checked for duplicates
