@@ -66,7 +66,8 @@ While budget and gross revenue are strongly correlated (r = 0.74, p < 0.001), hi
 Finding: ROI and Budget Efficiency
 
 * A hypothesis test comparing ROI between high-budget and low-budget movies shows:
-       -t-statistic = -1.65, p = 0.095 (two-sided)
+
+        -t-statistic = -1.65, p = 0.095 (two-sided)
 
 Interpretation:
 * The result is not statistically significant (p > 0.05)
