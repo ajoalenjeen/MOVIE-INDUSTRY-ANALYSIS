@@ -67,7 +67,7 @@ Finding: ROI and Budget Efficiency
 
 * A hypothesis test comparing ROI between high-budget and low-budget movies shows:
 
-        -t-statistic = -1.65, p = 0.095 (two-sided)
+        t-statistic = -1.65, p = 0.095 (two-sided)
 
 Interpretation:
 * The result is not statistically significant (p > 0.05)
