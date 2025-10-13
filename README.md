@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes movies to uncover insights into the movie industry. Using Excel(Data Cleaning), Python (Data Cleaning, EDA, Hypothesis Testing, Visualization) and Tableau (Dashboard), the goal was to understand patterns in budget, gross revenue, profit, genres, and production companies.
+This project analyzes movies to uncover insights into the movie industry. Using Excel(Data Cleaning), Python (Data Cleaning, EDA, Hypothesis Testing, Regression, Visualization), the goal was to understand patterns in budget, gross revenue, profit, genres, and production companies.
 
 
 ## Dataset link
