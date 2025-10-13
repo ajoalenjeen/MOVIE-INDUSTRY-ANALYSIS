@@ -53,7 +53,7 @@ https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 ### Budget vs Gross and ROI
 
-image
+![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/2396b3f0bdeb123547fb84ac76945cf211e87877/Image/Screenshot%202025-10-13%20153611.png)
 
 The positive correlation (r = 0.74) means:
 
