@@ -127,6 +127,20 @@ Business Implications:
 
 * Low-competition months (Sept–Oct) are best suited for niche or experimental releases, minimizing risk and maximizing audience share.
 
+### Average profit per Genre
+
+![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/d375f5703b1d6842b895d2a70386935c64cceeec/Image/Screenshot%202025-10-15%20143236.png)
+
+Finding: Profitability by Genre
+
+* Family and Animation movies have the highest average profits (~$450M and $200M respectively).
+
+* Action and Adventure follow, driven by global franchise performance.
+
+* Horror and Mystery achieve strong returns relative to cost, though with lower absolute profits.
+
+* Romance and Westerns are least profitable.
+
 ## Key Insights
 
 * Family & Animation genres deliver the highest average profit
