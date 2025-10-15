@@ -172,7 +172,7 @@ In business terms:
 
 ### Top 10 Companies with high gross
 
-1[image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/91634e550d264baff9833f5b7a07b4c03a1f9f08/Image/Screenshot%202025-10-15%20143327.png)
+![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/91634e550d264baff9833f5b7a07b4c03a1f9f08/Image/Screenshot%202025-10-15%20143327.png)
 
 * Warner Bros., Universal, and Columbia collectively account for the lion’s share of global box office earnings.
   
