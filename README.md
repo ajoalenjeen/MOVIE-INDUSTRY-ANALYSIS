@@ -111,7 +111,7 @@ However, this growth is largely nominal — studios spend far more per film toda
 
 ### Average Profit per month
 
-![image alt](<img width="1257" height="586" alt="image" src="https://github.com/user-attachments/assets/4b5bc6f6-ada6-453c-8d7e-4de5daf3fa76" />)
+![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/849956c022041ab4419ebb7d1a941ebbad56d7bb/Image/Screenshot%202025-10-15%20143211.png)
 
 Finding: Seasonal Profit Trends
 
