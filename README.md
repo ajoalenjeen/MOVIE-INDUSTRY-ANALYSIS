@@ -141,6 +141,24 @@ Finding: Profitability by Genre
 
 * Romance and Westerns are least profitable.
 
+### Average Runtime per Genre
+
+![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/1187f878a39ba8ae79be4bd98d1a531b54514234/Image/Screenshot%202025-10-15%20143250.png)
+
+Finding: Runtime Patterns by Genre
+
+* Median runtime varies widely by genre.
+
+* Dramas, Biographies, and Mysteries average ~120–130 minutes.
+
+* Comedies, Horrors, and Animations cluster around 90–100 minutes.
+
+* Action and Adventure films sit in the middle (~110–120 minutes).
+
+Interpretation:
+
+* Narrative-heavy genres naturally demand longer runtimes, while lighter or family-oriented genres optimize for audience turnover.
+
 ## Key Insights
 
 * Family & Animation genres deliver the highest average profit
