@@ -109,6 +109,24 @@ Action:
 Average film profits have grown nearly 8× since 1980, driven by globalization, blockbuster franchises, and higher production budgets.
 However, this growth is largely nominal — studios spend far more per film today, resulting in higher profits but not necessarily higher efficiency (as seen in the earlier ROI analysis).
 
+### Average Profit per month
+
+![image alt](<img width="1257" height="586" alt="image" src="https://github.com/user-attachments/assets/4b5bc6f6-ada6-453c-8d7e-4de5daf3fa76" />)
+
+Finding: Seasonal Profit Trends
+
+* Average profit peaks in May–July and November–December, aligning with global blockbuster and holiday release seasons.
+
+* Summer releases generate the highest profitability (avg. $110M+), followed by holiday films (avg. $100M+).
+
+* Autumn months (Aug–Oct) see the lowest returns.
+
+Business Implications:
+
+* Studios should schedule high-budget, family-friendly, or franchise films in summer and winter windows to maximize returns.
+
+* Low-competition months (Sept–Oct) are best suited for niche or experimental releases, minimizing risk and maximizing audience share.
+
 ## Key Insights
 
 * Family & Animation genres deliver the highest average profit
