@@ -94,6 +94,20 @@ Action:
 
 * Reducing average project budgets by 20% could maintain revenue levels while improving profitability margins by up to 15%.
 
+### Average Profit of Movie Industry since 1980
+
+![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/c1e75624db99371f11aa5a1135b542ef2559bd18/Image/Screenshot%202025-10-15%20143048.png)
+
+* 1980s–early 1990s: Profits relatively low and stable (average ~$20–40M).
+
+* Mid-1990s onward: Gradual increase — growth of blockbuster era (CGI, franchises, global distribution).
+
+* 2000s: Rapid climb — rise of major studios’ tentpole strategy (e.g., Harry Potter, Marvel, Lord of the Rings).
+
+* 2010s–2020: Sharp surge — dominance of streaming-age mega franchises, higher budgets, larger global markets.
+
+Average film profits have grown nearly 8× since 1980, driven by globalization, blockbuster franchises, and higher production budgets.
+However, this growth is largely nominal — studios spend far more per film today, resulting in higher profits but not necessarily higher efficiency (as seen in the earlier ROI analysis).
 
 ## Key Insights
 
