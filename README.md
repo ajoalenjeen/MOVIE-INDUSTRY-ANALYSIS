@@ -159,6 +159,17 @@ Interpretation:
 
 * Narrative-heavy genres naturally demand longer runtimes, while lighter or family-oriented genres optimize for audience turnover.
 
+### Duration vs Gross
+
+![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/0343a8cf7cc8380ea588e9557a3c9c20bbff4e8a/Image/Screenshot%202025-10-15%20143310.png)
+
+An r = 0.28 means runtime explains only a small portion of a movie’s revenue.
+In business terms:
+
+* Longer movies slightly tend to make more money, but the effect is weak — other factors (genre, budget, marketing, release strategy) matter much more.
+
+* While longer films may allow for more complex storytelling and perceived value, duration alone is not a strong predictor of commercial success.”
+
 ## Key Insights
 
 * Family & Animation genres deliver the highest average profit
