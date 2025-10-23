@@ -188,7 +188,7 @@ In business terms:
 
 * Profitability of the industry has grown consistently since the 1980s
 
-* Top studios like Universal, Warner Bros, and Disney dominate overall profits
+* Top studios like Universal, Warner Bros, and Colombia Pictures dominate overall profits
 
 * Genres like Drama, Biography, and Mystery generally have longer runtimes (110–130+ minutes), while Animation, Family, and Horror films are shorter (85–100 minutes).
 
