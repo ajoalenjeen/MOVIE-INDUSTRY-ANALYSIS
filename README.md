@@ -179,6 +179,41 @@ In business terms:
 * Their success stems from consistent franchise investments, international reach, and diversified genre portfolios.
   
 * Studios like Marvel and DreamWorks demonstrate that focused IP (superheroes, animation) can rival the output of legacy majors when strategically managed.”
+
+## Predictive Model
+
+Trained and compared:
+
+* Linear Regression
+
+* Random Forest Regressor
+
+* Gradient Boosting Regressor
+
+* XGBoost Regressor
+
+Model Tuning
+
+* GridSearchCV optimized key hyperparameters for Gradient Boosting and XGBoost.
+
+* Optuna Optimization performed advanced hyperparameter tuning:
+Best XGBoost parameters:
+n_estimators=375, max_depth=4, learning_rate=0.0189,
+subsample=0.725, colsample_bytree=0.80, min_child_weight=1
+
+* Final R² = 0.744, indicating that ~74% of variation in movie gross is explained by the model.
+
+
+| Model               | R²       | RMSE      | MAE       |
+| ------------------- | -------- | --------- | --------- |
+| Linear Regression   | 0.63     | 118M      | 60.9M     |
+| Random Forest       | 0.72     | 103M      | 49.8M     |
+| Gradient Boosting   | 0.73     | 102M      | 50.0M     |
+| **XGBoost (Tuned)** | **0.74** | **98.8M** | **48.9M** |
+
+XGBoost outperformed others post hyperparameter tuning.
+
+
   
 ## Key Insights
 
