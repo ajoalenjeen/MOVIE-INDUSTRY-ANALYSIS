@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes movies to uncover insights into the movie industry. Using Excel(Data Cleaning), Python (Data Cleaning, EDA, Hypothesis Testing, Regression, Visualization), the goal was to understand patterns in budget, gross revenue, profit, genres, and production companies.
+This project analyzes a dataset of movies to uncover the key factors that influence box-office success and to predict gross revenue using machine learning. It combines data cleaning, exploratory analysis, hypothesis testing, and model optimization to draw actionable insights for the movie industry.
 
 
 ## Dataset link
