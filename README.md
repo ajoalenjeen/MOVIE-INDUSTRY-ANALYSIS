@@ -198,18 +198,18 @@ Model Tuning
 
 * Optuna Optimization performed advanced hyperparameter tuning:
 Best XGBoost parameters:
-n_estimators=375, max_depth=4, learning_rate=0.0189,
-subsample=0.725, colsample_bytree=0.80, min_child_weight=1
+n_estimators=597, max_depth=5, learning_rate=0.010859124024362968,
+subsample=0.7697814823356645, colsample_bytree=0.7922124083364512, min_child_weight=1
 
-* Final R² = 0.744, indicating that ~74% of variation in movie gross is explained by the model.
+* Final R² = 0.78, indicating that ~78% of variation in movie gross is explained by the model.
 
 
 | Model               | R²       | RMSE      | MAE       |
 | ------------------- | -------- | --------- | --------- |
-| Linear Regression   | 0.63     | 118M      | 60.9M     |
-| Random Forest       | 0.72     | 103M      | 49.8M     |
-| Gradient Boosting   | 0.73     | 102M      | 50.0M     |
-| **XGBoost (Tuned)** | **0.74** | **98.8M** | **48.9M** |
+| Linear Regression   | 0.67     | 97.3M      | 56.8M     |
+| Random Forest (Tuned)      | 0.75     | 84.8M      | 45.2M     |
+| Gradient Boosting (Tuned)   | 0.76     | 83.7M      | 44.5M     |
+| **XGBoost (Tuned)** | **0.78** | **81.2** | **44M** |
 
 XGBoost outperformed others post hyperparameter tuning.
 
