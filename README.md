@@ -29,7 +29,7 @@ https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 ## Tech Stack
 
-* Python: NumPy, Seaborn, Matplotlib, SciPy, Scikit-Learn, XGBoost, Optuna
+* Python: NumPy, Pandas, Seaborn, Matplotlib, SciPy, Scikit-Learn, XGBoost, Optuna
 
 * Statistical Tests: Linear regression, correlation, t-test
   
