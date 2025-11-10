@@ -109,7 +109,7 @@ Action:
 Average film profits have grown nearly 8× since 1980, driven by globalization, blockbuster franchises, and higher production budgets.
 However, this growth is largely nominal — studios spend far more per film today, resulting in higher profits but not necessarily higher efficiency (as seen in the earlier ROI analysis).
 
-### Average Profit per month
+### Average Profit by month
 
 ![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/849956c022041ab4419ebb7d1a941ebbad56d7bb/Image/Screenshot%202025-10-15%20143211.png)
 
