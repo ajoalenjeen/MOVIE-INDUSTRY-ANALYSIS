@@ -1,15 +1,15 @@
 # MOVIE-INDUSTRY-ANALYSIS
 
-## Project Overview
+# Project Overview
 
 This project analyzes a dataset of movies to uncover the key factors that influence box-office success and to predict gross revenue using machine learning. It combines data cleaning, exploratory analysis, hypothesis testing, and model optimization to draw actionable insights for the movie industry.
 
 
-## Dataset link
+# Dataset link
 
 https://www.kaggle.com/datasets/danielgrijalvas/movies
 
-## Key questions explored:
+# Key questions explored:
 
 * Evaluate top-performing studios in total box office gross
 
@@ -25,7 +25,7 @@ https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 
 
-## Tech Stack
+# Tech Stack
 
 * Python: NumPy, Pandas, Seaborn, Matplotlib, SciPy, Scikit-Learn, XGBoost, Optuna
 
@@ -33,7 +33,7 @@ https://www.kaggle.com/datasets/danielgrijalvas/movies
   
 * Excel
 
-## Data Cleaning
+# Data Cleaning
 
 * Checked for duplicates
 
@@ -46,9 +46,9 @@ https://www.kaggle.com/datasets/danielgrijalvas/movies
 * Dropped irrelevant records to improve data quality
 
 
-## Analysis
+# Analysis
 
-### Budget vs Gross and ROI
+## Budget vs Gross and ROI
 
 ![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/2396b3f0bdeb123547fb84ac76945cf211e87877/Image/Screenshot%202025-10-13%20153611.png)
 
@@ -58,7 +58,7 @@ Movies with higher budgets tend to generate higher gross revenues, but the relat
 
 While budget and gross revenue are strongly correlated (r = 0.74, p < 0.001), high spending doesn’t ensure profit. Studios can overspend without proportional returns, so ROI-based analysis is more reliable for investment decisions.
 
-#### Do High-Budget Movies Have Higher ROI?
+### Do High-Budget Movies Have Higher ROI?
 
 Finding: ROI and Budget Efficiency
 
@@ -92,7 +92,7 @@ Action:
 
 * Reducing average project budgets by 20% could maintain revenue levels while improving profitability margins by up to 15%.
 
-### Average Profit by month
+## Average Profit by month
 
 ![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/849956c022041ab4419ebb7d1a941ebbad56d7bb/Image/Screenshot%202025-10-15%20143211.png)
 
@@ -110,7 +110,7 @@ Business Implications:
 
 * Low-competition months (Sept–Oct) are best suited for niche or experimental releases, minimizing risk and maximizing audience share.
 
-### Average profit by Genre
+## Average profit by Genre
 
 ![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/d375f5703b1d6842b895d2a70386935c64cceeec/Image/Screenshot%202025-10-15%20143236.png)
 
@@ -124,7 +124,7 @@ Finding: Profitability by Genre
 
 * Romance and Westerns are least profitable.
 
-### Average Runtime by Genre
+## Average Runtime by Genre
 
 ![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/1187f878a39ba8ae79be4bd98d1a531b54514234/Image/Screenshot%202025-10-15%20143250.png)
 
@@ -142,7 +142,7 @@ Interpretation:
 
 * Narrative-heavy genres naturally demand longer runtimes, while lighter or family-oriented genres optimize for audience turnover.
 
-### Duration vs Gross
+## Duration vs Gross
 
 ![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/0343a8cf7cc8380ea588e9557a3c9c20bbff4e8a/Image/Screenshot%202025-10-15%20143310.png)
 
@@ -153,7 +153,7 @@ In business terms:
 
 * While longer films may allow for more complex storytelling and perceived value, duration alone is not a strong predictor of commercial success.”
 
-### Top 10 Companies with high gross
+## Top 10 Companies with high gross
 
 ![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/91634e550d264baff9833f5b7a07b4c03a1f9f08/Image/Screenshot%202025-10-15%20143327.png)
 
@@ -163,7 +163,7 @@ In business terms:
   
 * Studios like Marvel and DreamWorks demonstrate that focused IP (superheroes, animation) can rival the output of legacy majors when strategically managed.”
 
-## Predictive Model
+# Predictive Model
 
 Trained and compared:
 
@@ -198,7 +198,7 @@ XGBoost outperformed others post hyperparameter tuning.
 
 
   
-## Key Insights
+# Key Insights
 
 * Family & Animation genres deliver the highest average profit
 
