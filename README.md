@@ -13,8 +13,6 @@ https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 * Evaluate top-performing studios in total box office gross
 
-* What are the profit trends of the movie industry since 1980?
-
 * Which genres and months are the most profitable?
 
 * Do runtimes differ significantly across movie genres?
@@ -94,21 +92,6 @@ Action:
 
 * Reducing average project budgets by 20% could maintain revenue levels while improving profitability margins by up to 15%.
 
-### Average Profit of Movie Industry since 1980
-
-![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/c1e75624db99371f11aa5a1135b542ef2559bd18/Image/Screenshot%202025-10-15%20143048.png)
-
-* 1980s–early 1990s: Profits relatively low and stable (average ~$20–40M).
-
-* Mid-1990s onward: Gradual increase — growth of blockbuster era (CGI, franchises, global distribution).
-
-* 2000s: Rapid climb — rise of major studios’ tentpole strategy (e.g., Harry Potter, Marvel, Lord of the Rings).
-
-* 2010s–2020: Sharp surge — dominance of streaming-age mega franchises, higher budgets, larger global markets.
-
-Average film profits have grown nearly 8× since 1980, driven by globalization, blockbuster franchises, and higher production budgets.
-However, this growth is largely nominal — studios spend far more per film today, resulting in higher profits but not necessarily higher efficiency (as seen in the earlier ROI analysis).
-
 ### Average Profit by month
 
 ![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/849956c022041ab4419ebb7d1a941ebbad56d7bb/Image/Screenshot%202025-10-15%20143211.png)
@@ -127,7 +110,7 @@ Business Implications:
 
 * Low-competition months (Sept–Oct) are best suited for niche or experimental releases, minimizing risk and maximizing audience share.
 
-### Average profit per Genre
+### Average profit by Genre
 
 ![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/d375f5703b1d6842b895d2a70386935c64cceeec/Image/Screenshot%202025-10-15%20143236.png)
 
@@ -141,7 +124,7 @@ Finding: Profitability by Genre
 
 * Romance and Westerns are least profitable.
 
-### Average Runtime per Genre
+### Average Runtime by Genre
 
 ![image alt](https://github.com/ajoalenjeen/MOVIE-INDUSTRY-ANALYSIS/blob/1187f878a39ba8ae79be4bd98d1a531b54514234/Image/Screenshot%202025-10-15%20143250.png)
 
