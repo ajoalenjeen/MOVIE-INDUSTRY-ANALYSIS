@@ -54,9 +54,9 @@ https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 The positive correlation (r = 0.74) means:
 
-Movies with higher budgets tend to generate higher gross revenues, but the relationship is not perfect — there’s large variation (outliers).
+* Movies with higher budgets tend to generate higher gross revenues, but the relationship is not perfect — there’s large variation (outliers).
 
-While budget and gross revenue are strongly correlated (r = 0.74, p < 0.001), high spending doesn’t ensure profit. Studios can overspend without proportional returns, so ROI-based analysis is more reliable for investment decisions.
+* While budget and gross revenue are strongly correlated (r = 0.74, p < 0.001), high spending doesn’t ensure profit. Studios can overspend without proportional returns, so ROI-based analysis is more reliable for investment decisions.
 
 ### Do High-Budget Movies Have Higher ROI?
 
